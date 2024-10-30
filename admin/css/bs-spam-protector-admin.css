@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+input.bs_spam-protector-secret-key {
+    width: 550px;
+}
+
+#bs_time_check_severity {
+    margin-left: 5px;
+}
